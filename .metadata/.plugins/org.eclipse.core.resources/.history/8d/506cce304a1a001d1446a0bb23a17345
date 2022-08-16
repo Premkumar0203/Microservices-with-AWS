@@ -1,0 +1,21 @@
+server.port=0
+spring.application.name=Reader-Portal
+eureka.client.serviceUrl.defaultZone= ${EUREKA_URI:http://localhost:8764/eureka}
+
+
+spring.datasource.username=sa
+spring.datasource.password=
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto= update
+spring.h2.console.enabled=true
+
+#default path: h2-console
+spring.h2.console.path=/h2-console
+spring.datasource.url=jdbc:h2:C:/data/ReaderDB_12082022
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect  
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.H2Dialect
+
+
+springdoc.swagger-ui.path=/swagger-ui.html
+springdoc.api-docs.path=/v3/api-docs
+server.use-forward-headers=true

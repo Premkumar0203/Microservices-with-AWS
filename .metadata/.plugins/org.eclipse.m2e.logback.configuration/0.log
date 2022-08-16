@@ -1,0 +1,179 @@
+2022-08-12 19:50:28,352 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-12 19:51:00,261 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:Api_Gateway:0.0.1-SNAPSHOT @ C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\apigateway-app\pom.xml.
+2022-08-12 19:51:02,155 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:DigitalBook-Reader_Portal_noKafka:0.0.1-SNAPSHOT @ C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Reader_Portal_noKafka\pom.xml.
+2022-08-12 19:51:03,161 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:DigitalBook-Author_Portal_nokafka:0.0.1-SNAPSHOT @ C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Author_Portal_nokafka\pom.xml.
+2022-08-12 19:51:03,893 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:Eureka-Server:0.0.1-SNAPSHOT @ C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\eureka-server-app\pom.xml.
+2022-08-12 19:51:06,589 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /apigateway-app/src/main/java
+2022-08-12 19:51:06,590 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /apigateway-app/src/main/resources
+2022-08-12 19:51:06,590 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /apigateway-app/src/main/resources
+2022-08-12 19:51:06,591 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /apigateway-app/src/test/java
+2022-08-12 19:51:07,063 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DigitalBook-Author_Portal_nokafka/src/main/java
+2022-08-12 19:51:07,063 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DigitalBook-Author_Portal_nokafka/src/main/resources
+2022-08-12 19:51:07,063 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DigitalBook-Author_Portal_nokafka/src/main/resources
+2022-08-12 19:51:07,064 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DigitalBook-Author_Portal_nokafka/src/test/java
+2022-08-12 19:51:08,668 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DigitalBook-Reader_Portal_noKafka/src/main/java
+2022-08-12 19:51:08,669 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DigitalBook-Reader_Portal_noKafka/src/main/resources
+2022-08-12 19:51:08,677 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /DigitalBook-Reader_Portal_noKafka/src/main/resources
+2022-08-12 19:51:08,678 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /DigitalBook-Reader_Portal_noKafka/src/test/java
+2022-08-12 19:51:09,363 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server-app/src/main/java
+2022-08-12 19:51:09,363 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server-app/src/main/resources
+2022-08-12 19:51:09,364 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server-app/src/main/resources
+2022-08-12 19:51:09,364 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server-app/src/test/java
+2022-08-12 19:51:09,745 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 12 sec
+2022-08-12 19:51:12,618 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:51:12,618 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:51:12,623 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:51:12,643 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:51:12,655 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:51:12,655 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:51:12,655 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Author_Portal_nokafka\src\test\resources
+2022-08-12 19:51:14,472 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:51:14,472 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:51:14,473 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:51:14,476 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:51:14,483 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:51:14,484 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:51:14,484 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Reader_Portal_noKafka\src\test\resources
+2022-08-12 19:51:16,015 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:51:16,015 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:51:16,016 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:51:16,021 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-12 19:51:16,023 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:51:16,023 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:51:16,024 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\apigateway-app\src\test\resources
+2022-08-12 19:51:17,521 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:51:17,522 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:51:17,523 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:51:17,543 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-12 19:51:17,547 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:51:17,547 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:51:17,547 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\eureka-server-app\src\test\resources
+2022-08-12 19:52:27,155 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:52:27,156 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:52:27,158 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:52:27,201 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-12 19:52:27,204 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:52:27,204 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:52:27,204 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Reader_Portal_noKafka\src\test\resources
+2022-08-12 19:52:36,784 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:52:36,785 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:52:36,785 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:52:36,837 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-12 19:52:36,840 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:52:36,840 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:52:36,840 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Author_Portal_nokafka\src\test\resources
+2022-08-12 19:52:41,487 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:52:41,487 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:52:41,488 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:52:41,544 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-12 19:52:41,547 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:52:41,547 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:52:41,547 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\apigateway-app\src\test\resources
+2022-08-12 19:52:46,006 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:52:46,006 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:52:46,006 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 19:52:46,020 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-12 19:52:46,025 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 19:52:46,025 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 19:52:46,025 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\eureka-server-app\src\test\resources
+2022-08-12 19:53:01,794 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-08-12 19:53:16,923 [Worker-8: Launching eureka-server-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\eureka-server-app
+2022-08-12 19:53:16,923 [Worker-8: Launching eureka-server-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-12 19:53:30,580 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-08-12 19:53:35,006 [Worker-0: Launching apigateway-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\apigateway-app
+2022-08-12 19:53:35,006 [Worker-0: Launching apigateway-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-12 19:53:58,241 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-08-12 19:54:01,857 [Worker-5: Launching DigitalBook-Author_Portal_nokafka] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Author_Portal_nokafka
+2022-08-12 19:54:01,858 [Worker-5: Launching DigitalBook-Author_Portal_nokafka] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-12 19:54:07,795 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-08-12 19:54:11,735 [Worker-0: Launching DigitalBook-Reader_Portal_noKafka] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Reader_Portal_noKafka
+2022-08-12 19:54:11,735 [Worker-0: Launching DigitalBook-Reader_Portal_noKafka] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-12 21:17:38,577 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 21:17:38,579 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 21:17:38,585 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 21:17:38,788 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-12 21:17:38,792 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-12 21:17:38,793 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-12 21:17:38,793 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Reader_Portal_noKafka\src\test\resources
+2022-08-13 15:07:03,079 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-15 11:52:58,071 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-08-15 16:20:57,865 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-15 16:20:57,866 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-15 16:20:57,873 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-15 16:20:57,893 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-15 16:20:57,903 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-15 16:20:57,903 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-15 16:20:57,903 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Author_Portal_nokafka\src\test\resources
+2022-08-15 16:20:59,586 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-15 16:20:59,586 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-15 16:20:59,587 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-15 16:20:59,589 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-15 16:20:59,597 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-15 16:20:59,597 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-15 16:20:59,597 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Reader_Portal_noKafka\src\test\resources
+2022-08-15 16:21:01,750 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-15 16:21:01,750 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-15 16:21:01,751 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-15 16:21:01,753 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-15 16:21:01,757 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-15 16:21:01,757 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-15 16:21:01,757 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\apigateway-app\src\test\resources
+2022-08-15 16:21:02,968 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-15 16:21:02,968 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-15 16:21:02,968 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-15 16:21:02,971 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-15 16:21:02,973 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-15 16:21:02,973 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-15 16:21:02,974 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\eureka-server-app\src\test\resources
+2022-08-15 16:21:16,690 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-08-15 16:21:16,909 [Worker-25: Launching eureka-server-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\eureka-server-app
+2022-08-15 16:21:16,910 [Worker-25: Launching eureka-server-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-15 16:21:34,983 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-08-15 16:21:35,000 [Worker-24: Launching apigateway-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\apigateway-app
+2022-08-15 16:21:35,007 [Worker-24: Launching apigateway-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-15 16:21:41,958 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-08-15 16:21:42,038 [Worker-23: Launching DigitalBook-Author_Portal_nokafka] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Author_Portal_nokafka
+2022-08-15 16:21:42,039 [Worker-23: Launching DigitalBook-Author_Portal_nokafka] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-15 16:21:48,816 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-08-15 16:21:48,832 [Worker-26: Launching DigitalBook-Reader_Portal_noKafka] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Reader_Portal_noKafka
+2022-08-15 16:21:48,832 [Worker-26: Launching DigitalBook-Reader_Portal_noKafka] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-16 10:08:42,329 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 10:08:42,331 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-16 10:08:42,342 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-16 10:08:42,717 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-16 10:08:42,724 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 10:08:42,724 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-16 10:08:42,724 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\eureka-server-app\src\test\resources
+2022-08-16 10:08:48,374 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 10:08:48,374 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-16 10:08:48,375 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-16 10:08:48,532 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-16 10:08:48,538 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 10:08:48,538 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-16 10:08:48,539 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Reader_Portal_noKafka\src\test\resources
+2022-08-16 10:08:55,238 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 10:08:55,239 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-16 10:08:55,241 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-16 10:08:55,379 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-16 10:08:55,384 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 10:08:55,384 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-16 10:08:55,384 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\apigateway-app\src\test\resources
+2022-08-16 10:09:02,206 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 10:09:02,207 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-16 10:09:02,208 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-16 10:09:02,265 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-16 10:09:02,273 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 10:09:02,273 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-16 10:09:02,275 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Author_Portal_nokafka\src\test\resources
+2022-08-16 10:09:09,454 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-08-16 10:09:09,691 [Worker-24: Launching eureka-server-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\eureka-server-app
+2022-08-16 10:09:09,691 [Worker-24: Launching eureka-server-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-16 10:09:16,167 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-08-16 10:09:16,185 [Worker-31: Launching DigitalBook-Reader_Portal_noKafka] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Reader_Portal_noKafka
+2022-08-16 10:09:16,185 [Worker-31: Launching DigitalBook-Reader_Portal_noKafka] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-16 10:09:22,048 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-08-16 10:09:22,066 [Worker-31: Launching DigitalBook-Author_Portal_nokafka] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\DigitalBook-Author_Portal_nokafka
+2022-08-16 10:09:22,066 [Worker-31: Launching DigitalBook-Author_Portal_nokafka] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
+2022-08-16 10:09:29,319 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-08-16 10:09:29,339 [Worker-32: Launching apigateway-app] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\cogjava2212\Documents\Project\BackEnd - Spring Boot\Microservices With AWS EC2\apigateway-app
+2022-08-16 10:09:29,339 [Worker-32: Launching apigateway-app] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package -Dstyle.color=always
